@@ -46,4 +46,5 @@ def main():
             print('Exiting the program.')
             break
 
-main()
+if __name__ == '__main__':
+    main()
